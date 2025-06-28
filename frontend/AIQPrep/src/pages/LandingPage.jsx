@@ -122,7 +122,7 @@ export default function LandingPage(){
                 </div>
 
                 <div className="text-sm bg-gray-50 text-secondary text-center p-5 mt-5">
-                    Made By Milan Pratap ❤️....
+                    Made with ❤️ Milan Pratap © 2025 AIQPrep
                 </div>
             </div>        
               
